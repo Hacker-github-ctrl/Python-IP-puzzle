@@ -2,14 +2,15 @@
 Hello Scripts kiddies usam meus SCRIPTS de HACKING ou de PROGRAMAÇÃO PARA O USO de necessidade, sem intenções maliciosas
 
 
-1```
+1.
+```
 apt install python3
 ```
 2.
 ```
 git clone 
 ```
-3.
+3
 ```
 cd Python-IP-puzzlepy
 ```
@@ -17,5 +18,6 @@ cd Python-IP-puzzlepy
 ```
 python3 main.py
 ```
+
 
 
