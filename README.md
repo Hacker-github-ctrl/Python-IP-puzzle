@@ -2,6 +2,13 @@
 Hello Scripts kiddies usam meus SCRIPTS de HACKING ou de PROGRAMAÇÃO PARA O USO de necessidade, sem intenções maliciosas
 esse SCRIPT É FEITO EM PYTHON, ELE GERALMENTE SERVE PARA PEGAR O IP DE UMA PESSOA, ESSA FERRAMENTA SERÁ ATUALIZADA!
 
+Instalação
+Sistemas Operacionais: Kali Linux, Debian, Linux, Termux, Mac-Os
+__________________
+´´´               
+apt install git    
+´´´               
+__________________
 1.
 ```
 apt install python3
