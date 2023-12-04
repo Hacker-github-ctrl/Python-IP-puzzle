@@ -8,7 +8,7 @@ apt install python3
 ```
 2.
 ```
-git clone 
+git clone https://github.com/Hacker-github-ctrl/Python-IP-puzzle.py.git
 ```
 3
 ```
