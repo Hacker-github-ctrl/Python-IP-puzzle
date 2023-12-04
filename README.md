@@ -1,6 +1,6 @@
 # Python-IP-puzzle
 Hello Scripts kiddies usam meus SCRIPTS de HACKING ou de PROGRAMAÇÃO PARA O USO de necessidade, sem intenções maliciosas
-
+esse SCRIPT É FEITO EM PYTHON, ELE GERALMENTE SERVE PARA PEGAR O IP DE UMA PESSOA, ESSA FERRAMENTA SERÁ ATUALIZADA!
 
 1.
 ```
