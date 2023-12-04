@@ -4,11 +4,11 @@ esse SCRIPT É FEITO EM PYTHON, ELE GERALMENTE SERVE PARA PEGAR O IP DE UMA PESS
 
 Instalação
 Sistemas Operacionais: Kali Linux, Debian, Linux, Termux, Mac-Os
-__________________
-´´´               
-apt install git    
-´´´               
-__________________
+____________________
+| ```              | 
+| apt install git  | 
+| ```              |
+|__________________|
 1.
 ```
 apt install python3
